@@ -1,0 +1,2 @@
+Ekstraktujte listu tag-ova iz fajla /home/bian/Downloads/index.html 
+koristeci komandu grep i regularne izraze

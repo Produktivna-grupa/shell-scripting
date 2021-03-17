@@ -1,0 +1,12 @@
+bats
+cats
+birds
+pigs
+dogs
+fishes
+elephants
+rats
+ants
+mice
+horses
+
